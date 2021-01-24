@@ -52,10 +52,10 @@ public class Passenger {
             phone = contactArray[1];
             email = contactArray[2];
         }
-        public  void  setContactDetails(String name,String phoneNumber, String emailId) {
+        public  void  setContactDetails(String name,String phone, String email) {
             this.name = name;
-            this.phone = phoneNumber;
-            this.email = emailId;
+            this.phone = phone;
+            this.email = email;
         }
 
     }
