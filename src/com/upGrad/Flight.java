@@ -8,6 +8,7 @@ public class Flight {
     private int seatsBooked;
 
     public Flight(int flight,String airline,int totalCapacity,int seatsBooked) {
+        
         this.flight = flight;
         this.airline=airline;
         this.totalCapacity=totalCapacity;
