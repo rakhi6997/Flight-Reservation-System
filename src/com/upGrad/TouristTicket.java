@@ -32,7 +32,6 @@ public class TouristTicket {
             String hotelAddress,
             String[] touristLocations
     ){
-        
         this.pnr=pnr;
         this.departureLocation=departureLocation;
         this.destinationLocation=destinationLocation;
