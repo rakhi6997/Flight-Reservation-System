@@ -6,7 +6,6 @@ public class Passenger {
     private Address address;
     private static  int idCounter;
 
-
     private static class Address {
         private String street;
         private String city;
