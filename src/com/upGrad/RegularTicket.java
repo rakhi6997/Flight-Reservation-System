@@ -30,6 +30,7 @@ public class RegularTicket {
             boolean statusCancelled,
             String specialService
     ){
+       
        this.pnr=pnr;
        this.departureLocation=departureLocation;
        this.destinationLocation=destinationLocation;
