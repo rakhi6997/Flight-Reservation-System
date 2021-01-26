@@ -30,7 +30,6 @@ public class Main {
         System.out.println(Passenger.getIdCounter());
         System.out.println(Passenger.getPassengerCount());
 
-
         String arrivalTime = "21/01/01 23:23:34";
         String departureTime ="20/12/31 5:23:32";
 
